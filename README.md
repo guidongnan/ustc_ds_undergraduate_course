@@ -1,7 +1,14 @@
 # ustc_ds_undergraduate_course
 This is the repo of the materials of the undergraduate courses in USTC, school of Data Science.
 
-Some tips in using this repo.
+----
+You can contact me with
+- *QQ*:1789856350 
+- *Email*:gdn2001@mail.ustc.edu.cn
+
+----
+
+Some tips in using this repo:
 
 ----
 本人不保证此仓库任何内容的正确性，如有错误，欢迎指正。
@@ -9,6 +16,16 @@ Some tips in using this repo.
 
 ----
 本仓库内容仅为参考所用，禁止抄袭。且答案与实验并非最优与最佳结果，仅供参考。
+
+----
+### 试卷及复习资料
+
+[试卷及复习资料](./试卷及复习资料)包括本人在一些课中间收集到的历年试卷和复习题，深感收集信息的艰难、没有信息的无力。为了打通消息的壁垒，特别将本人在各门课程收集到的有价值的文件整理在这里，以惠后人，侵删。
+
+- 这些文件一部分来自课程群，一部分来自电子资料群，一部分来自评课社区，一部分来自网络。侵删。
+- 这些试卷及复习资料大多是其他学院的通修课，或者好几个院的通修课，选课者众多，课程资源也相对较多，可以直接去其他学院的github主页或者评课社区里获取更多的课程信息。
+
+
 
 ----
 
