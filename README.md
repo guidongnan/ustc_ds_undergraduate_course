@@ -4,7 +4,7 @@ This is the repo of the materials of the undergraduate courses in USTC, school o
 ----
 You can contact me with
 - *QQ*:1789856350 
-- *Email*:gdn2001@mail.ustc.edu.cn
+- *Email*:gdn2001[at]mail.ustc.edu.cn
 
 ----
 
