@@ -3,6 +3,7 @@ This is the repo of the materials of the undergraduate courses in USTC, school o
 
 ----
 You can contact me with
+
 - *QQ*:1789856350 
 - *Email*:gdn2001[at]mail.ustc.edu.cn
 
@@ -13,6 +14,16 @@ You can contact me with
 
 - 本仓库未用于任何商业目的（不想承担法律责任），如有侵权，请联系删除。
 - 本人不保证此仓库任何内容的正确性（有错误但懒得改了），答案与实验并非最优与最佳结果，仅供参考，禁止抄袭。
+
+
+## 其他资源
+
+- 其他GitHub指路:
+	- [USTC_Course](https://github.com/USTC-Resource/USTC-Course)
+	- [USTC-CS-Courses-Resource](https://github.com/ustcwpz/USTC-CS-Courses-Resource)
+- 其他网站
+	- [评课社区](https://www.icourse.club/)
+
 
 
 ## 文件概要
